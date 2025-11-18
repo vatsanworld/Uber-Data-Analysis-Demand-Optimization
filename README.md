@@ -56,9 +56,6 @@ The analysis is delivered through three dashboards:
 | Visualization | Tableau |
 | Insight Communication |
 | Dataset | Trip-level processed dataset |
-
-## Repository Structure
-
 ---
 
 ## Author
