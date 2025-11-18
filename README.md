@@ -30,7 +30,7 @@ The analysis is delivered through three dashboards:
 | **Executive Overview** | High-level trip KPIs & segmentation |
 | **Operational Demand & Hotspot Intelligence** | Demand heatmap (Day × Time), Top Hotspots, Trip Purpose |
 
-🔗 *Tableau packaged workbook (.twbx) and dashboard images included in repository.*
+*Tableau packaged workbook (.twbx) and dashboard images included in repository.*
 
 ---
 
@@ -63,7 +63,7 @@ The analysis is delivered through three dashboards:
 
 ## Author
 **Srivatsan R**  
-Data Analytics & Business Insights & Strategy 
+Data Analytics & Business Insights & Strategy
 Prepared as a data analysis case demonstration for Uber analytics domain.
 
 Email: vatsan.world@gmail.com 
