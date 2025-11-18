@@ -63,8 +63,7 @@ The analysis is delivered through three dashboards:
 
 ## Author
 **Srivatsan R**  
-Data Analytics & Business Insights & Strategy
-Prepared as a data analysis case demonstration for Uber analytics domain.
+Data Analytics. Business Insights & Strategy.
 
 Email: vatsan.world@gmail.com 
 LinkedIn: https://www.linkedin.com/in/vatsan-work
