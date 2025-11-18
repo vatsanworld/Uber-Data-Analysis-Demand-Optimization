@@ -54,8 +54,6 @@ The analysis is delivered through three dashboards:
 |----------|------------|
 | Data Analysis | Python (Pandas, Matplotlib, Seaborn) |
 | Visualization | Tableau |
-| Insight Communication |
-| Dataset | Trip-level processed dataset |
 ---
 
 ## Author
