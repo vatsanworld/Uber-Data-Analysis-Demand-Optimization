@@ -5,7 +5,7 @@ This project delivers data-driven insights for Uber rides focused on understandi
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 To analyze temporal and spatial demand patterns and evaluate efficiency metrics to guide:
 - Optimal driver allocation and resource balancing
 - Hotspot, Time period, and purpose-based business prioritization
@@ -13,7 +13,7 @@ To analyze temporal and spatial demand patterns and evaluate efficiency metrics 
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 - **Evening and Weekend demand peaks dominate traffic**, emphasizing strong leisure and social travel patterns.
 - **Short-distance congested rides significantly reduce revenue efficiency**, suggesting dispatch or pricing optimization potential.
 - **Medium-length trips generate the highest revenue per minute**, representing high-value target segments for fleet allocation.
@@ -22,7 +22,7 @@ To analyze temporal and spatial demand patterns and evaluate efficiency metrics 
 
 ---
 
-## 📊 Dashboards (Tableau)
+## Dashboards (Tableau)
 The analysis is delivered through three dashboards:
 
 | Dashboard | Focus |
@@ -34,7 +34,7 @@ The analysis is delivered through three dashboards:
 
 ---
 
-## 🔍 Featured Visuals
+## Featured Visuals
 - Temporal Heatmap (Day × Time Period)
 - Top 10 Hotspots (Pickup location demand ranking)
 - Trips by Time Period (operational cycles)
@@ -42,7 +42,7 @@ The analysis is delivered through three dashboards:
 - Top 5 Purposes
 ---
 
-## 🧪 Methodology
+## Methodology
 ### **Techniques**
 - Exploratory data analysis (EDA)
 - Feature engineering & time bucketing
@@ -57,14 +57,14 @@ The analysis is delivered through three dashboards:
 | Insight Communication |
 | Dataset | Trip-level processed dataset |
 
-## 📂 Repository Structure
+## Repository Structure
 
 ---
 
-## 🧑‍💼 Author
+## Author
 **Srivatsan R**  
 Data Analytics & Business Insights & Strategy 
 Prepared as a data analysis case demonstration for Uber analytics domain.
 
-📫 Email: vatsan.world@gmail.com 
-🔗 LinkedIn: https://www.linkedin.com/in/vatsan-work
+Email: vatsan.world@gmail.com 
+LinkedIn: https://www.linkedin.com/in/vatsan-work
